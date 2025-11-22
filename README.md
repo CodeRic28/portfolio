@@ -1,5 +1,24 @@
 # Portfolio
-![image](https://github.com/user-attachments/assets/c859cc22-2fc4-441e-ae68-149cc75cfe5d)
+![image](https://github.com/user-attachments/assets/40d0c70a-dac4-404f-9a79-4ad91abffe5b)
+![image](https://github.com/user-attachments/assets/59702d24-b4ca-42e7-a09a-8e80ed4f5f0e)
+![image](https://github.com/user-attachments/assets/d06ccd4c-a823-4806-89c0-20665ceccc18)
+![image](https://github.com/user-attachments/assets/605c93b2-cbc9-42f4-95fb-cb447b6855e0)
+![image](https://github.com/user-attachments/assets/32bb80f3-2cf2-434a-aeca-fdccb4aa2a8e)
+![image](https://github.com/user-attachments/assets/1f2b9cfe-b975-4f53-a6a1-2fec560f7005)
+![image](https://github.com/user-attachments/assets/f9d0bd3e-4d1f-4dee-9b94-c761de729002)
+![image](https://github.com/user-attachments/assets/72f50b52-fd64-46c0-abea-806b945ee533)
+![image](https://github.com/user-attachments/assets/3f8a7a9f-88f7-4123-97e9-69cf39cb41c6)
+![image](https://github.com/user-attachments/assets/ed5d4510-c02d-43a5-a022-edd12c70dcee)
+![image](https://github.com/user-attachments/assets/681af214-edb5-4f0b-a1cb-1c5a8d97798c)
+![image](https://github.com/user-attachments/assets/7f86bbf8-6228-4ccd-b318-057ba2982fc6)
+![image](https://github.com/user-attachments/assets/09984b7c-4311-4bd4-aee6-43c04d91c869)
+![image](https://github.com/user-attachments/assets/2f8d4375-5bef-4071-9884-e3068b7a0452)
+![image](https://github.com/user-attachments/assets/f9aa8599-a088-44dc-856a-73b9c2a0e1db)
+![image](https://github.com/user-attachments/assets/14009bca-eaf1-4a6f-a226-ec87eac6920a)
+![image](https://github.com/user-attachments/assets/18bec6b5-582c-41ec-bd4a-9faa3452a8eb)
+
+
+
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/d02f22ca-671e-42d4-b0d6-aa0e7e900b3b)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/07750094-eca9-4cc0-af7f-aaa9b187bee0)
 ![image](https://github.com/CodeRic28/portfolio/assets/51741804/5f6dabeb-9959-4099-beed-ae08f022fb97)
